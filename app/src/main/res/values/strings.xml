@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Co dziś na obiad?</string>
+    <string name="edit">Edytuj</string>
+    <string name="share">Udostępnij</string>
+    <string name="like">Dodaj do ulubionych</string>
+    <string name="settings">Ustawienia</string>
+    <string name="home">Strona główna</string>
+    <string name="fridge">Lodówka</string>
+    <string name="help">Pomoc</string>
+    <string name="night_mode">Tryb nocny</string>
+    <string name="add_recipe">Dodaj przepis</string>
+    <string name="name">Nazwa</string>
+    <string name="add">Dodaj</string>
+    <string name="description">Opis</string>
+    <string name="take_photo">Zrób zdjęcie</string>
+    <string name="load_file">Załaduj z pliku</string>
+    <string name="add_photo">Dodaj zdjęcie</string>
+    <string name="product_library">Biblioteka produktów</string>
+    <string name="add_product">Dodaj produkt</string>
+    <string name="proteins">Białka</string>
+    <string name="fat">Tłuszcz</string>
+    <string name="carbohydrates">Węglowodany</string>
+    <string name="energy">Energia</string>
+    <string name="amount">Ilość</string>
+    <string name="pick_date">Wybierz datę</string>
+    <string name="pick_product">Wybierz produkt</string>
+    <string name="cancel">Anuluj</string>
+    <string name="NA">Nie wybrano</string>
+</resources>
